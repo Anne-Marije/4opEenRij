@@ -17,22 +17,58 @@ and open the template in the editor.
     <body>
         <table>
             <tr>
-                <td><button type="button">o</button></td><td>o</td><td>o</td><td>o</td><td>o</td><td>o</td><td>o</td>
+                <td><button type="button">o</button></td>
+                <td><button type="button">o</button></td>
+                <td><button type="button">o</button></td>
+                <td><button type="button">o</button></td>
+                <td><button type="button">o</button></td>
+                <td><button type="button">o</button></td>
+                <td><button type="button">o</button></td>
             </tr>
             <tr>
-                <td>o</td><td>o</td><td>o</td><td>o</td><td>o</td><td>o</td><td>o</td>
+                <td><button type="button">o</button></td>
+                <td><button type="button">o</button></td>
+                <td><button type="button">o</button></td>
+                <td><button type="button">o</button></td>
+                <td><button type="button">o</button></td>
+                <td><button type="button">o</button></td>
+                <td><button type="button">o</button></td>
             </tr>
             <tr>
-                <td>o</td><td>o</td><td>o</td><td>o</td><td>o</td><td>o</td><td>o</td>
+                <td><button type="button">o</button></td>
+                <td><button type="button">o</button></td>
+                <td><button type="button">o</button></td>
+                <td><button type="button">o</button></td>
+                <td><button type="button">o</button></td>
+                <td><button type="button">o</button></td>
+                <td><button type="button">o</button></td>
             </tr>
             <tr>
-                <td>o</td><td>o</td><td>o</td><td>o</td><td>o</td><td>o</td><td>o</td>
+                <td><button type="button">o</button></td>
+                <td><button type="button">o</button></td>
+                <td><button type="button">o</button></td>
+                <td><button type="button">o</button></td>
+                <td><button type="button">o</button></td>
+                <td><button type="button">o</button></td>
+                <td><button type="button">o</button></td>
             </tr>
             <tr>
-                <td>o</td><td>o</td><td>o</td><td>o</td><td>o</td><td>o</td><td>o</td>
+                <td><button type="button">o</button></td>
+                <td><button type="button">o</button></td>
+                <td><button type="button">o</button></td>
+                <td><button type="button">o</button></td>
+                <td><button type="button">o</button></td>
+                <td><button type="button">o</button></td>
+                <td><button type="button">o</button></td>
             </tr>
             <tr>
-                <td>o</td><td>o</td><td>o</td><td>o</td><td>o</td><td>o</td><td>o</td>
+                <td><button type="button">o</button></td>
+                <td><button type="button">o</button></td>
+                <td><button type="button">o</button></td>
+                <td><button type="button">o</button></td>
+                <td><button type="button">o</button></td>
+                <td><button type="button">o</button></td>
+                <td><button type="button">o</button></td>
             </tr>
             
         </table>
